@@ -12,6 +12,7 @@ Available scenario/reference notes:
 - [LightRampant](reference/LightRampant.md)
 - [UltimateRelativity](reference/UltimateRelativity.md)
 - [Apocalypse](reference/Apocalypse.md)
+- [CrystallizeTime](reference/CrystallizeTime.md)
 
 The project links the current production scenarios, scheduler, AI and DamageSolver.
 Native actors, action-sheet lookups and rendering are boundary substitutes.

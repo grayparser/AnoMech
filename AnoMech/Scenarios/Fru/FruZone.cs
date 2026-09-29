@@ -11,6 +11,7 @@ public sealed class FruZone : IZone
     public static readonly FruZone Instance = new();
     public static readonly Phase P2 = new(Instance, "P2", 105, BgmId.Usurper, InitP2Arena);
     public static readonly Phase P3 = new(Instance, "P3", 106, BgmId.Oracle, InitP3Arena);
+    public static readonly Phase P4 = new(Instance, "P4", 106, BgmId.OracleAndUsurper, InitP4Arena);
 
     public string Name => "Futures Rewritten";
     public uint TerritoryId => 1238;
@@ -25,6 +26,14 @@ public sealed class FruZone : IZone
     {
         world.EnforceArenaBoundary(Geometry.ArenaRadius);
     }
+
+    private static void InitP4Arena(SimWorld world) => world.Events.Add(1f, () =>
+    {
+        // Native P3/P4 stage controller (layout 10866554); mode 2 selects the
+        // stage4_type2 state. Hourglasses and the fragment are owned by CT.
+        for (byte slot = 0; slot < MapEffect.SlotCount; slot++)
+            world.Map.AddEffect(slot == 40 ? 0x00020001u : MapEffect.Hide, slot);
+    });
 
     private static void InitP2Arena(SimWorld world) => world.Events.Add(1f, () =>
     {

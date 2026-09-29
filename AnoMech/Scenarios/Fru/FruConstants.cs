@@ -12,6 +12,8 @@ public static class FruConstants
         public const ushort Usurper = 759;
         // The Extreme (Shadowbringers), music/ex3/BGM_EX3_Raid_12.scd.
         public const ushort Oracle = 802;
+        // Promises to Keep, music/ex3/BGM_EX3_Raid_11.scd (native BGM sheet).
+        public const ushort OracleAndUsurper = 801;
     }
 
     public static class MapEffect

@@ -5,4 +5,5 @@ public sealed class FruRegressionTests
     [Test] public void LightRampant() => LightRampantChecks.Run();
     [Test] public void UltimateRelativity() => UltimateRelativityChecks.Run();
     [Test] public void Apocalypse() => ApocalypseChecks.Run();
+    [Test] public void CrystallizeTime() => CrystallizeTimeChecks.Run();
 }
