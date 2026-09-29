@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoMech.Tests", "tests\AnoM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoMech.FruCore.Tests", "tests\AnoMech.FruCore.Tests\AnoMech.FruCore.Tests.csproj", "{ABD4483D-FA1E-493B-BD86-D62D10219B81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoMech.Fru.Tests", "tests\AnoMech.Fru.Tests\AnoMech.Fru.Tests.csproj", "{FD73E8DE-95C0-46C3-871F-CE6878AC6400}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|x64.Build.0 = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Debug|x86.Build.0 = Debug|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|x64.Build.0 = Release|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400}.Release|x86.Build.0 = Release|Any CPU
 		{ABD4483D-FA1E-493B-BD86-D62D10219B81}.Debug|x64.ActiveCfg = Debug|Any CPU
 		{ABD4483D-FA1E-493B-BD86-D62D10219B81}.Debug|x64.Build.0 = Debug|Any CPU
 		{ABD4483D-FA1E-493B-BD86-D62D10219B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -104,6 +118,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{FD73E8DE-95C0-46C3-871F-CE6878AC6400} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 		{ABD4483D-FA1E-493B-BD86-D62D10219B81} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 		{787B5879-559A-4808-8727-1FCC6EF641F5} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
 		{3C844A97-EBDA-424F-8B72-AB80A56A4175} = {0AB3BF05-4346-4AA6-1389-037BE0695223}

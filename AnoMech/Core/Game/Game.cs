@@ -7,6 +7,7 @@ using AnoMech.Core.Game.Party;
 using AnoMech.Core.Map;
 using AnoMech.Core.SimObjects;
 using AnoMech.Scenarios;
+using AnoMech.Scenarios.Fru;
 using AnoMech.Scenarios.Top.P2PartySynergy;
 using AnoMech.Scenarios.Top.P5Delta;
 using AnoMech.Scenarios.Top.P5Omega;
@@ -141,7 +142,7 @@ public sealed class Game : IDisposable
     {
         World = new SimWorld(Events);
         opcodeUpdater = new OpcodeUpdater();
-        Scenarios = new IScenario[]
+        var scenarios = new List<IScenario>
         {
             new UmadP1TeleTrouncingScenario(),
             new UmadP2ForsakenScenario(),
@@ -161,6 +162,9 @@ public sealed class Game : IDisposable
             new UltimateSuppressionScenario(),
             new UcobP5ExaflaresScenario()
         };
+
+        scenarios.AddRange(FruScenarios.CreateCatalog());
+        Scenarios = scenarios;
 
         // Derive the zone tree from the flat registry (first-appearance order).
         var zoneOrder = new List<IZone>();

@@ -1,0 +1,779 @@
+[
+  {
+    "RowId": 40115,
+    "Name": "",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40118,
+    "Name": "the Path of Darkness",
+    "CastType": 12,
+    "EffectRange": 5,
+    "XAxisModifier": 80
+  },
+  {
+    "RowId": 40119,
+    "Name": "Cruel Path of Light",
+    "CastType": 12,
+    "EffectRange": 100,
+    "XAxisModifier": 6
+  },
+  {
+    "RowId": 40120,
+    "Name": "Cruel Path of Darkness",
+    "CastType": 12,
+    "EffectRange": 100,
+    "XAxisModifier": 6
+  },
+  {
+    "RowId": 40180,
+    "Name": "Mirror Image",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40181,
+    "Name": "Darkest Dance",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40182,
+    "Name": "Darkest Dance",
+    "CastType": 2,
+    "EffectRange": 8,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40183,
+    "Name": "Darkest Dance",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40184,
+    "Name": "Frost Armor",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40185,
+    "Name": "Shining Armor",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40187,
+    "Name": "the Path of Light",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40188,
+    "Name": "the House of Light",
+    "CastType": 13,
+    "EffectRange": 60,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40189,
+    "Name": "the House of Light",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40190,
+    "Name": "the Path of Light",
+    "CastType": 13,
+    "EffectRange": 60,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40193,
+    "Name": "Twin Stillness",
+    "CastType": 13,
+    "EffectRange": 30,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40194,
+    "Name": "Twin Silence",
+    "CastType": 13,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40195,
+    "Name": "Twin Silence",
+    "CastType": 13,
+    "EffectRange": 30,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40196,
+    "Name": "Twin Stillness",
+    "CastType": 13,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40197,
+    "Name": "Diamond Dust",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40198,
+    "Name": "Icicle Impact",
+    "CastType": 2,
+    "EffectRange": 10,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40199,
+    "Name": "Frigid Stone",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40200,
+    "Name": "Frigid Needle",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40201,
+    "Name": "Frigid Needle",
+    "CastType": 11,
+    "EffectRange": 40,
+    "XAxisModifier": 5
+  },
+  {
+    "RowId": 40202,
+    "Name": "Axe Kick",
+    "CastType": 2,
+    "EffectRange": 16,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40203,
+    "Name": "Scythe Kick",
+    "CastType": 10,
+    "EffectRange": 20,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40206,
+    "Name": "the House of Light",
+    "CastType": 13,
+    "EffectRange": 60,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40207,
+    "Name": "Heavenly Strike",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40208,
+    "Name": "Sinbound Holy",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40209,
+    "Name": "Sinbound Holy",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40212,
+    "Name": "Light Rampant",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40213,
+    "Name": "Bright Hunger",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40214,
+    "Name": "Inescapable Illumination",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40215,
+    "Name": "Refulgent Fate",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40216,
+    "Name": "Lightsteep",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40217,
+    "Name": "Powerful Light",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40218,
+    "Name": "Luminous Hammer",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40219,
+    "Name": "Burst",
+    "CastType": 2,
+    "EffectRange": 11,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40220,
+    "Name": "Banish III",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40221,
+    "Name": "Banish III",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40222,
+    "Name": "Banish III",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40223,
+    "Name": "Banish III Divided",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40227,
+    "Name": "Hallowed Wings",
+    "CastType": 12,
+    "EffectRange": 80,
+    "XAxisModifier": 40
+  },
+  {
+    "RowId": 40228,
+    "Name": "Hallowed Wings",
+    "CastType": 12,
+    "EffectRange": 80,
+    "XAxisModifier": 40
+  },
+  {
+    "RowId": 40229,
+    "Name": "Hallowed Wings",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40230,
+    "Name": "Hallowed Wings",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40233,
+    "Name": "Wings Dark and Light",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40234,
+    "Name": "Polarizing Paths",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40235,
+    "Name": "Sinbound Meltdown",
+    "CastType": 12,
+    "EffectRange": 60,
+    "XAxisModifier": 5
+  },
+  {
+    "RowId": 40237,
+    "Name": "Akh Rhai",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40238,
+    "Name": "Akh Rhai",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40239,
+    "Name": "Darklit Dragonsong",
+    "CastType": 2,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40240,
+    "Name": "Crystallize Time",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40241,
+    "Name": "Longing of the Lost",
+    "CastType": 2,
+    "EffectRange": 12,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40242,
+    "Name": "Joyless Dragonsong",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40244,
+    "Name": "",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40247,
+    "Name": "Akh Morn",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40248,
+    "Name": "Akh Morn",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40251,
+    "Name": "Tidal Light",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40252,
+    "Name": "Tidal Light",
+    "CastType": 12,
+    "EffectRange": 10,
+    "XAxisModifier": 40
+  },
+  {
+    "RowId": 40253,
+    "Name": "Tidal Light",
+    "CastType": 12,
+    "EffectRange": 10,
+    "XAxisModifier": 40
+  },
+  {
+    "RowId": 40266,
+    "Name": "Ultimate Relativity",
+    "CastType": 2,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40267,
+    "Name": "Return",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40268,
+    "Name": "Return IV",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40269,
+    "Name": "Spell-in-Waiting Refrain",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40270,
+    "Name": "Dark Water III",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40271,
+    "Name": "Dark Water III",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40273,
+    "Name": "Dark Eruption",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40274,
+    "Name": "Dark Eruption",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40276,
+    "Name": "Dark Fire III",
+    "CastType": 2,
+    "EffectRange": 8,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40277,
+    "Name": "Unholy Darkness",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40278,
+    "Name": "Shadoweye",
+    "CastType": 6,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40279,
+    "Name": "Dark Blizzard III",
+    "CastType": 10,
+    "EffectRange": 12,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40280,
+    "Name": "Dark Aero III",
+    "CastType": 2,
+    "EffectRange": 15,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40281,
+    "Name": "Quietus",
+    "CastType": 2,
+    "EffectRange": 50,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40282,
+    "Name": "Shockwave Pulsar",
+    "CastType": 2,
+    "EffectRange": 40,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40283,
+    "Name": "Somber Dance",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40284,
+    "Name": "Somber Dance",
+    "CastType": 2,
+    "EffectRange": 8,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40285,
+    "Name": "Somber Dance",
+    "CastType": 2,
+    "EffectRange": 8,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40286,
+    "Name": "Shell Crusher",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40287,
+    "Name": "Shell Crusher",
+    "CastType": 2,
+    "EffectRange": 6,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40288,
+    "Name": "Spirit Taker",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40289,
+    "Name": "Spirit Taker",
+    "CastType": 2,
+    "EffectRange": 5,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40291,
+    "Name": "Sinbound Meltdown",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40292,
+    "Name": "Sinbound Meltdown",
+    "CastType": 12,
+    "EffectRange": 50,
+    "XAxisModifier": 5
+  },
+  {
+    "RowId": 40293,
+    "Name": "Speed",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40294,
+    "Name": "Quicken",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40295,
+    "Name": "Slow",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40296,
+    "Name": "Apocalypse",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40297,
+    "Name": "Apocalypse",
+    "CastType": 2,
+    "EffectRange": 9,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40298,
+    "Name": "Crystallize Time",
+    "CastType": 2,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40299,
+    "Name": "Maelstrom",
+    "CastType": 2,
+    "EffectRange": 12,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40301,
+    "Name": "Darklit Dragonsong",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40302,
+    "Name": "Akh Morn",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40303,
+    "Name": "Akh Morn",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40306,
+    "Name": "Fulgent Blade",
+    "CastType": 2,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40307,
+    "Name": "the Path of Light",
+    "CastType": 12,
+    "EffectRange": 5,
+    "XAxisModifier": 80
+  },
+  {
+    "RowId": 40308,
+    "Name": "the Path of Light",
+    "CastType": 12,
+    "EffectRange": 5,
+    "XAxisModifier": 80
+  },
+  {
+    "RowId": 40309,
+    "Name": "the Path of Darkness",
+    "CastType": 12,
+    "EffectRange": 5,
+    "XAxisModifier": 80
+  },
+  {
+    "RowId": 40310,
+    "Name": "Akh Morn",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40311,
+    "Name": "Akh Morn",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40312,
+    "Name": "Akh Morn",
+    "CastType": 2,
+    "EffectRange": 4,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40313,
+    "Name": "Wings Dark and Light",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40314,
+    "Name": "Wings Dark and Light",
+    "CastType": 13,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40315,
+    "Name": "Wings Dark and Light",
+    "CastType": 13,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40316,
+    "Name": "Polarizing Strikes",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40317,
+    "Name": "Cruel Path of Light",
+    "CastType": 12,
+    "EffectRange": 100,
+    "XAxisModifier": 6
+  },
+  {
+    "RowId": 40318,
+    "Name": "Cruel Path of Darkness",
+    "CastType": 12,
+    "EffectRange": 100,
+    "XAxisModifier": 6
+  },
+  {
+    "RowId": 40319,
+    "Name": "Paradise Regained",
+    "CastType": 1,
+    "EffectRange": 0,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40320,
+    "Name": "Explosion",
+    "CastType": 2,
+    "EffectRange": 3,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40321,
+    "Name": "Unmitigated Explosion",
+    "CastType": 2,
+    "EffectRange": 100,
+    "XAxisModifier": 0
+  },
+  {
+    "RowId": 40332,
+    "Name": "Hallowed Wings",
+    "CastType": 12,
+    "EffectRange": 40,
+    "XAxisModifier": 50
+  }
+]

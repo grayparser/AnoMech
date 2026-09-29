@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework><AllowUnsafeBlocks>true</AllowUnsafeBlocks></PropertyGroup>
+  <ItemGroup>
+    <None Update="ActionGeometry.json" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="../../AnoMech/Scenarios/Fru/**/*.cs"
+      Exclude="../../AnoMech/Scenarios/Fru/FruZone.cs;../../AnoMech/Scenarios/Fru/FruUtils.cs;../../AnoMech/Scenarios/Fru/**/Fru*Settings.cs" Link="Production/Fru/%(RecursiveDir)%(Filename)%(Extension)" />
+    <Compile Include="../../AnoMech/Core/UserActions/Mitigation.cs" Link="Production/Core/UserActions/Mitigation.cs" />
+    <Compile Include="../../AnoMech/Scenarios/DamageSolver.cs" Link="Production/Scenarios/DamageSolver.cs" />
+    <Compile Include="../../AnoMech/Scenarios/IScenario.cs" Link="Production/Scenarios/IScenario.cs" />
+    <Compile Include="../../AnoMech/Core/SimObjects/ISimObject.cs" Link="Production/Core/SimObjects/ISimObject.cs" />
+    <Compile Include="../../AnoMech/Core/SimObjects/SimMapEffect.cs" Link="Production/Core/SimObjects/SimMapEffect.cs" />
+    <Compile Include="../../AnoMech/Core/Game/Ai/IScenarioAi.cs" Link="Production/Core/Game/Ai/IScenarioAi.cs" />
+    <Compile Include="../../AnoMech/Core/Game/EventScheduler.cs" Link="Production/Core/Game/EventScheduler.cs" />
+    <Compile Include="../../AnoMech/Core/Game/Placement.cs" Link="Production/Core/Game/Placement.cs" />
+    <Compile Include="../../AnoMech/Core/SimObjects/IPositioned.cs" Link="Production/Core/SimObjects/IPositioned.cs" />
+    <Compile Include="../../AnoMech/Core/Game/Party/PartyRole.cs" Link="Production/Core/Game/Party/PartyRole.cs" />
+    <Compile Include="../../AnoMech/Core/Game/Party/PartyPresets.cs" Link="Production/Core/Game/Party/PartyPresets.cs" />
+  </ItemGroup>
+</Project>
