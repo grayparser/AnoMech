@@ -14,6 +14,7 @@ Available scenario/reference notes:
 - [Apocalypse](reference/Apocalypse.md)
 - [CrystallizeTime](reference/CrystallizeTime.md)
 - [DarklitDragonsong](reference/DarklitDragonsong.md)
+- [FulgentBlade](reference/FulgentBlade.md)
 
 The project links the current production scenarios, scheduler, AI and DamageSolver.
 Native actors, action-sheet lookups and rendering are boundary substitutes.
