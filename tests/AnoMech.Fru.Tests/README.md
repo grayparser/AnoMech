@@ -9,6 +9,7 @@ dotnet test tests/AnoMech.Fru.Tests
 Available scenario/reference notes:
 
 - [DiamondDust](reference/DiamondDust.md)
+- [LightRampant](reference/LightRampant.md)
 
 The project links the current production scenarios, scheduler, AI and DamageSolver.
 Native actors, action-sheet lookups and rendering are boundary substitutes.
