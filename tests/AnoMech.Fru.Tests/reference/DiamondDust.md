@@ -30,7 +30,7 @@ The production scenario and AI run in the headless harness. Checks cover:
   missing healers, lingering puddles, gaze facing, twin cleaves, deathwall,
   missing actors, and resets during active effects.
 
-`test/MovementChecks` separately executes the real movement implementation:
+`tests/AnoMech.FruCore.Tests` separately executes the real movement implementation:
 The simulated 32-yalm bot slides use timeline 602 (`pc_contentsaction/icefloor`),
 clear their forced-movement state on arrival/reset, and preserve the previous
 Apocalypse gap-closer fix. Player ice movement belongs to the native client;

@@ -10,7 +10,7 @@ Run only these checks with `dotnet test tests/AnoMech.Fru.Tests/AnoMech.Fru.Test
 The separate `dotnet test tests/AnoMech.FruCore.Tests` harness exercises the
 production player movement code, including a gap-closer interrupting the end of
 the knockback without the old slide pushing the player out again.
-The normal command below runs them with the existing FRU checks.
+`dotnet test AnoMech.sln` runs these alongside the other FRU and upstream tests.
 `ApocalypseChecks` exhausts all 2,520 water assignments, then executes 384 full
 bot runs across eight rotations, 16 assignments, and 15/30/60 FPS. Another 64
 runs replay externally recorded player inputs across every role and rotation,

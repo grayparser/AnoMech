@@ -9,7 +9,7 @@ internal static class FruCatalogChecks
     public static void Run()
     {
         var catalog = FruScenarios.CreateCatalog();
-        string[] names = ["Diamond Dust", "Light Rampant", "Ultimate Relativity", "Apocalypse", "Darklit Dragonsong", "Crystallize Time", "Fulgent Blade"];
+        string[] names = ["Diamond Dust", "Light Rampant", "Ultimate Relativity", "Apocalypse", "Darklit Dragonsong", "Crystallize Time", "Fulgent Blade", "Paradise Regained"];
         Check(catalog.Select(s => s.Name).SequenceEqual(names), "Only individual FRU scenarios are registered");
         var world = new SimWorld();
         var fulgent = catalog.Single(s => s.Name == "Fulgent Blade");

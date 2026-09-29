@@ -6,11 +6,12 @@ using AnoMech.Scenarios.Fru.Apocalypse;
 using AnoMech.Scenarios.Fru.CrystallizeTime;
 using AnoMech.Scenarios.Fru.DarklitDragonsong;
 using AnoMech.Scenarios.Fru.FulgentBlade;
+using AnoMech.Scenarios.Fru.ParadiseRegained;
 
 namespace AnoMech.Scenarios.Fru;
 
 internal static class FruScenarios
 {
     public static IReadOnlyList<IScenario> CreateCatalog() =>
-        [new FruDiamondDustScenario(), new FruLightRampantScenario(), new FruUltimateRelativityScenario(), new FruApocalypseScenario(), new FruDarklitDragonsongScenario(), new FruCrystallizeTimeScenario(), new FruFulgentBladeScenario()];
+        [new FruDiamondDustScenario(), new FruLightRampantScenario(), new FruUltimateRelativityScenario(), new FruApocalypseScenario(), new FruDarklitDragonsongScenario(), new FruCrystallizeTimeScenario(), new FruFulgentBladeScenario(), new FruParadiseRegainedScenario()];
 }
