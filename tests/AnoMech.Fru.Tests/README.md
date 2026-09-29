@@ -13,6 +13,7 @@ Available scenario/reference notes:
 - [UltimateRelativity](reference/UltimateRelativity.md)
 - [Apocalypse](reference/Apocalypse.md)
 - [CrystallizeTime](reference/CrystallizeTime.md)
+- [DarklitDragonsong](reference/DarklitDragonsong.md)
 
 The project links the current production scenarios, scheduler, AI and DamageSolver.
 Native actors, action-sheet lookups and rendering are boundary substitutes.
