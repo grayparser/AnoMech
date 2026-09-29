@@ -10,6 +10,7 @@ public sealed class FruZone : IZone
 {
     public static readonly FruZone Instance = new();
     public static readonly Phase P2 = new(Instance, "P2", 105, BgmId.Usurper, InitP2Arena);
+    public static readonly Phase P3 = new(Instance, "P3", 106, BgmId.Oracle, InitP3Arena);
 
     public string Name => "Futures Rewritten";
     public uint TerritoryId => 1238;
@@ -32,4 +33,10 @@ public sealed class FruZone : IZone
             world.Map.AddEffect(slot == 23 ? MapEffect.Show : MapEffect.Hide, slot);
     });
 
+    private static void InitP3Arena(SimWorld world) => world.Events.Add(1f, () =>
+    {
+        // The P3/P4 controller's default stage4 state is the P3 platform.
+        for (byte slot = 0; slot < MapEffect.SlotCount; slot++)
+            world.Map.AddEffect(slot == 40 ? MapEffect.Show : MapEffect.Hide, slot);
+    });
 }
